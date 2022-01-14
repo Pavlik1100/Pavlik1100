@@ -3,6 +3,7 @@
 - :computer: I’m interested in IT-technology and software development.
 - 🌱 I’m currently learning on Software Testing course by Vadim Ksendzov.
 - 🛠️ I’m explorer tools like: GitBush, Postman, Dbeaver, DevTools, Android Studio, Charles, Fidler, Pycharm.  
+
   <div align="center">
     <img alt="Git" width="73px" src="https://user-images.githubusercontent.com/89486551/143319775-c711ac23-04f8-44dd-9a0b-ea3698467e9e.png" />
     <img alt="Markdown" width="73px" src="https://user-images.githubusercontent.com/89486551/143319781-e0cb8223-f5db-4cfd-b2f8-9fab2e227023.png" />
